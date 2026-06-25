@@ -8,7 +8,7 @@
 
 ### 🌸 About My Journey
 
-I am a data professional located in Spain, deeply passionate about extracting knowledge from large datasets. My background is rooted in Business Data Analysis and People Analytics, where I leverage data to drive intelligent, strategic decisions. 
+I am a data professional located in Spain, deeply passionate about extracting knowledge from large datasets. My background is rooted in Data Analysis and HR Analytics, where I leverage data to drive intelligent, strategic decisions. 
 
 Currently, I am expanding my technical boundaries through a **Degree in Data Science & Artificial Intelligence** at the International University of Valencia, moving from descriptive reporting to automated machine learning models.
 
